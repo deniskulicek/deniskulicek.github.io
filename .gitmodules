@@ -1,3 +1,0 @@
-[submodule "datavis"]
-        path = /data-science-datavis
-            url = git@github.com:CodeTaha/datasciViz.git
